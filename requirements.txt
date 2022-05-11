@@ -1,0 +1,20 @@
+beautifulsoup4==4.11.1
+certifi==2021.10.8
+charset-normalizer==2.0.12
+configparser==5.2.0
+configure==0.5
+et-xmlfile==1.1.0
+feedparser==6.0.8
+idna==3.3
+питрy==1.22.3
+openpyxl==3.0.9
+pandas==1.4.2
+pyTelegramBotAPI==4.5.0
+python-dateutil==2.8.2
+pytz==2022.1
+PyYAML==6.0
+requests==2.27.1
+sgmllib3k==1.0.0
+six==1.16.0
+soup sieve==2.3.2.post1
+urllib3==1.26.9
